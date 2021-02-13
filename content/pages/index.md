@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: CODE UPDATE
-    subtitle: Optional hero section subtitle
+    subtitle: hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
