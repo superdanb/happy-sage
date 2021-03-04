@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: From the page
+    title: Code Editor Change
     subtitle: hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
